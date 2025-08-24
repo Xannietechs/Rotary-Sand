@@ -32,14 +32,6 @@ const Gallery = () => {
     {
       src: "/7.jpg",
       caption: "Sand Dryer Plant"
-    },
-    {
-      src: "/8.jpg",
-      caption: "Impeller - Dust Collector - Cyclone Fan"
-    },
-    {
-      src: "/9.jpg",
-      caption: "Impeller - Dust Collector - Cyclone Fan"
     }
    
   ];
